@@ -8,4 +8,5 @@ export const store = configureStore({
     posts: postsReducer,
     users: usersReducer,
   },
+  devTools: true,
 });
