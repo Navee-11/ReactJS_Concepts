@@ -75,3 +75,16 @@ const ComponentB = () => {
   return <div>Component B</div>;
 };
  */
+
+//React query usecases
+/* ✅ Caching
+✅ Background refetching
+✅ Loading state
+✅ Error handling
+✅ Request deduplication (avoids making the same request multiple times concurrently)
+✅ Pagination support
+✅ Infinite scrolling support
+✅ Automatic retries for failed requests (configurable)
+✅ Mutations (POST, PUT, DELETE)
+✅ Cache invalidation after updates
+✅ Optimistic updates (show changes immediately before the server confirms) */
